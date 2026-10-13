@@ -1,0 +1,16 @@
+/*reset css mặc định*/
+body{
+    font-family: sans-serif;
+    padding: 20px;
+    }
+    .content-box{
+        border: 1px solid #ccc;
+        padding: 20px;
+        max-width: 800px;
+        margin: auto;
+        line-height: 1.6;
+        }
+        a{
+            color: #3366cc;
+            }
+            

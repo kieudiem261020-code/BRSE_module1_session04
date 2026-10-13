@@ -1,0 +1,15 @@
+/*reset css mặc định*/
+body{
+    font-family: sans-serif;
+    padding: 20px;
+    }
+    h1{
+        font-size: 28px;
+    }
+    .tip-box{
+        background: #fcf8e3;
+        border-left: 4px solid #f0ad4e;
+        padding: 10px 15px;
+        margin-top: 20px;
+        }
+        

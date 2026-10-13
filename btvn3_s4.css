@@ -1,0 +1,36 @@
+/*reset css mặc định*/
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    padding: 20px;
+    }
+    h1{
+        font-size: 22px;
+    }
+    label{
+        display: block;
+        font-weight: bold;
+        margin-top: 10px;
+        }
+        input, textarea{
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        textarea{
+            height: 80px;
+            }
+            button{
+                width: 100%;
+                background: #28a745;
+                color: white;
+                border: none;
+                padding: 10px;
+                margin-top: 15px;
+                cursor: pointer;
+                font-weight: bold;
+                }
